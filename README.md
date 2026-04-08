@@ -246,7 +246,7 @@ http://localhost:8080/admin/artikel/edit/2
 
 <img width="625" height="476" alt="image" src="https://github.com/user-attachments/assets/8adb292a-f078-424f-98ee-c7992fc5e88e" />
 
-
+<img width="408" height="164" alt="image" src="https://github.com/user-attachments/assets/552a50b4-3c5d-4dac-907c-e132e7acccfe" />
 
 
 ## PRAKTIKUM 4: MODUL LOGIN
