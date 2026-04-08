@@ -80,6 +80,8 @@ http://localhost:8080/page/tos
 
 <img width="906" height="366" alt="image" src="https://github.com/user-attachments/assets/bfdb6c14-c9a7-4a19-933e-2dcc27b580c7" />
 
+## Halaman about
+<img width="611" height="254" alt="image" src="https://github.com/user-attachments/assets/b3f0a96e-4cc5-47f1-98d9-67e02024a4aa" />
 
 
 ## PRAKTIKUM 2: CRUD ARTIKEL
