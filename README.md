@@ -241,7 +241,10 @@ http://localhost:8080/admin/artikel/add
 http://localhost:8080/admin/artikel/edit/1
 http://localhost:8080/admin/artikel/edit/2
 
-## Screenshot
+## Screenshot Hasil
+<img width="1025" height="159" alt="image" src="https://github.com/user-attachments/assets/3b55c222-a412-4161-8152-2a6484fbb1fe" />
+
+
 
 
 ## PRAKTIKUM 4: MODUL LOGIN
