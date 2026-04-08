@@ -59,33 +59,33 @@ http://localhost:8080/contact
 http://localhost:8080/faqs
 http://localhost:8080/page/tos
 
-## Screenshot
+## Screenshot Hasil
 ## Codelgniter
 <img width="736" height="297" alt="image" src="https://github.com/user-attachments/assets/8a832a83-c520-485f-a9d2-d046f42b5276" />
 
-## Halaman about
+## Tampilan about
 <img width="379" height="222" alt="image" src="https://github.com/user-attachments/assets/9b37982a-d9be-49fa-80a2-0d1c7ba039dc" />
 
-## Halaman contack
+## Tampilan contack
 <img width="381" height="250" alt="image" src="https://github.com/user-attachments/assets/3b50bae4-4214-4aa1-9ccc-38605212bb75" />
 
-## Halaman Faqs
+## Tampilan Faqs
 <img width="414" height="298" alt="image" src="https://github.com/user-attachments/assets/1ac10788-78dd-4f99-a0af-1e99b6009af5" />
 
-## Halaman tos
+## Tampilan tos
 <img width="1289" height="375" alt="image" src="https://github.com/user-attachments/assets/5724ede2-b2fe-4ba1-aeaa-7e1678e33d65" />
 
-## Halaman services
+## Tampilan services
 <img width="382" height="186" alt="image" src="https://github.com/user-attachments/assets/61168265-9dfc-457f-808f-22788ea1ec3d" />
 
 <img width="906" height="366" alt="image" src="https://github.com/user-attachments/assets/bfdb6c14-c9a7-4a19-933e-2dcc27b580c7" />
 
-## Halaman about
+## Tampilan about
 <img width="611" height="254" alt="image" src="https://github.com/user-attachments/assets/b3f0a96e-4cc5-47f1-98d9-67e02024a4aa" />
 
 <img width="474" height="287" alt="image" src="https://github.com/user-attachments/assets/3ecaab6f-0ee7-4b64-be15-aba031cd5c0c" />
 
-## Halaman about
+## Tampilan about
 <img width="924" height="553" alt="image" src="https://github.com/user-attachments/assets/bd28caa4-53a4-4c7a-9ffe-85b32a84a3bf" />
 
 
@@ -164,7 +164,9 @@ http://localhost:8080/admin/artikel/edit/1
 http://localhost:8080/admin/artikel/edit/2
 
 
-## Screenshot
+## Screenshot Hasil
+<img width="907" height="604" alt="image" src="https://github.com/user-attachments/assets/55121293-4dfa-4b73-a6da-a2d683b33631" />
+
 
 ## PRAKTIKUM 3: VIEW LAYOUT & VIEW CELL
 ## Tujuan:
