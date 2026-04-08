@@ -357,11 +357,11 @@ Praktikum 4 berhasil menambahkan sistem authentication/login untuk memproteksi h
 
 
 
-| Author |
-|------------|-----|
-| **Nama** | Cindy Revalina Simanullang|
-| **NIM** | 312410417 |
-| **Kelas** | I.24.C.1 |
-| **Mata Kuliah** | Pemrograman Web 2 |
+## Author 
+
+ **Nama**   :Cindy Revalina Simanullang|
+ **NIM**    : 312410417 
+ **Kelas**  : I.24.C.1 
+ **Mata Kuliah** :Pemrograman Web 2 
 
 
