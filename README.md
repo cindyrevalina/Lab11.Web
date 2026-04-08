@@ -336,7 +336,7 @@ http://localhost:8080/admin/artikel/edit/1
 <img width="785" height="510" alt="image" src="https://github.com/user-attachments/assets/787f7081-d20e-4150-bb9f-648a8a5bb8dd" />
 
 ## ALUR BELAJAR YANG BENAR:
-text
+```markdown
 Praktikum 1 (Dasar CI4)
        ↓
 Praktikum 2 (CRUD Database)
@@ -344,8 +344,9 @@ Praktikum 2 (CRUD Database)
 Praktikum 3 (Layout & View Cell)
        ↓
 Praktikum 4 (Login & Filter)
-
+```
 ## Kesimpulan:
+```markdown
  Dari praktikum 1 sampai 4 yang telah dilakukan, dapat disimpulkan:
 
 Praktikum 1 berhasil memahami dasar-dasar CodeIgniter 4 mulai dari instalasi, routing, controller, view, hingga layout sederhana.
@@ -355,12 +356,12 @@ Praktikum 2 berhasil membuat aplikasi CRUD artikel lengkap dengan database MySQL
 Praktikum 3 berhasil mengimplementasikan View Layout untuk template yang rapi dan View Cell untuk komponen sidebar yang reusable.
 
 Praktikum 4 berhasil menambahkan sistem authentication/login untuk memproteksi halaman admin agar hanya bisa diakses oleh user yang sudah login.
-
+```
 
 
 ## Author 
 ```markdown
- Nama   : Cindy Revalina Simanullang|
+ Nama   : Cindy Revalina Simanullang
  NIM    : 312410417 
  Kelas  : I.24.C.1 
  Mata Kuliah : Pemrograman Web 2 
