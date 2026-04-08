@@ -83,6 +83,7 @@ http://localhost:8080/page/tos
 ## Tampilan about
 <img width="611" height="254" alt="image" src="https://github.com/user-attachments/assets/b3f0a96e-4cc5-47f1-98d9-67e02024a4aa" />
 
+## Mengaktifkan Mode Debugging
 <img width="474" height="287" alt="image" src="https://github.com/user-attachments/assets/3ecaab6f-0ee7-4b64-be15-aba031cd5c0c" />
 
 ## Tampilan about
