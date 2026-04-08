@@ -66,8 +66,11 @@ http://localhost:8080/page/tos
 ## Halaman about
 <img width="379" height="222" alt="image" src="https://github.com/user-attachments/assets/9b37982a-d9be-49fa-80a2-0d1c7ba039dc" />
 
-## Halaman 
+## Halaman contack
 <img width="381" height="250" alt="image" src="https://github.com/user-attachments/assets/3b50bae4-4214-4aa1-9ccc-38605212bb75" />
+
+## Halaman Faqs
+<img width="414" height="298" alt="image" src="https://github.com/user-attachments/assets/1ac10788-78dd-4f99-a0af-1e99b6009af5" />
 
 
 
