@@ -85,6 +85,10 @@ http://localhost:8080/page/tos
 
 <img width="474" height="287" alt="image" src="https://github.com/user-attachments/assets/3ecaab6f-0ee7-4b64-be15-aba031cd5c0c" />
 
+## Halaman about
+<img width="924" height="553" alt="image" src="https://github.com/user-attachments/assets/bd28caa4-53a4-4c7a-9ffe-85b32a84a3bf" />
+
+
 ## PRAKTIKUM 2: CRUD ARTIKEL
 ## Tujuan:
 
