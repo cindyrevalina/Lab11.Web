@@ -329,6 +329,7 @@ http://localhost:8080/admin/artikel/edit/1
 
 <img width="726" height="473" alt="image" src="https://github.com/user-attachments/assets/d2588b3c-cbbb-43d2-9bcf-c005c8ca4a20" />
 
+<img width="785" height="510" alt="image" src="https://github.com/user-attachments/assets/787f7081-d20e-4150-bb9f-648a8a5bb8dd" />
 
 ## ALUR BELAJAR YANG BENAR:
 text
