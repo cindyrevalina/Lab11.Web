@@ -60,8 +60,11 @@ http://localhost:8080/faqs
 http://localhost:8080/page/tos
 
 ## Screenshot
-Codelgniter
+## Codelgniter
 <img width="736" height="297" alt="image" src="https://github.com/user-attachments/assets/8a832a83-c520-485f-a9d2-d046f42b5276" />
+
+## 
+<img width="379" height="222" alt="image" src="https://github.com/user-attachments/assets/9b37982a-d9be-49fa-80a2-0d1c7ba039dc" />
 
 
 
