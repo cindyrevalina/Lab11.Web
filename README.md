@@ -327,6 +327,7 @@ http://localhost:8080/admin/artikel/edit/1
 ## Tampilan login
 <img width="691" height="452" alt="image" src="https://github.com/user-attachments/assets/2e50e309-a2fd-4a39-a5b5-bcc5c4c7dc91" />
 
+<img width="726" height="473" alt="image" src="https://github.com/user-attachments/assets/d2588b3c-cbbb-43d2-9bcf-c005c8ca4a20" />
 
 
 ## ALUR BELAJAR YANG BENAR:
