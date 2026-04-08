@@ -75,6 +75,8 @@ http://localhost:8080/page/tos
 ## Halaman tos
 <img width="1289" height="375" alt="image" src="https://github.com/user-attachments/assets/5724ede2-b2fe-4ba1-aeaa-7e1678e33d65" />
 
+## Halaman services
+<img width="382" height="186" alt="image" src="https://github.com/user-attachments/assets/61168265-9dfc-457f-808f-22788ea1ec3d" />
 
 
 
