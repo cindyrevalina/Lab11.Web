@@ -165,6 +165,8 @@ http://localhost:8080/admin/artikel/edit/2
 
 
 ## Screenshot Hasil
+<img width="387" height="223" alt="image" src="https://github.com/user-attachments/assets/d439a072-35fd-4f34-888e-288b6cf14417" />
+
 <img width="907" height="604" alt="image" src="https://github.com/user-attachments/assets/55121293-4dfa-4b73-a6da-a2d683b33631" />
 
 <img width="835" height="566" alt="image" src="https://github.com/user-attachments/assets/860838d1-1bf7-411d-94a6-e8dc68bb8a4c" />
