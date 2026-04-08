@@ -72,6 +72,9 @@ http://localhost:8080/page/tos
 ## Halaman Faqs
 <img width="414" height="298" alt="image" src="https://github.com/user-attachments/assets/1ac10788-78dd-4f99-a0af-1e99b6009af5" />
 
+## Halaman tos
+<img width="1289" height="375" alt="image" src="https://github.com/user-attachments/assets/5724ede2-b2fe-4ba1-aeaa-7e1678e33d65" />
+
 
 
 
