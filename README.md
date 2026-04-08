@@ -175,6 +175,8 @@ http://localhost:8080/admin/artikel/edit/2
 
 <img width="937" height="622" alt="image" src="https://github.com/user-attachments/assets/41ff1f6c-2ecf-476f-ae1a-e659c349b2c9" />
 
+<img width="832" height="556" alt="image" src="https://github.com/user-attachments/assets/90d5088f-8202-4278-b2f9-bde7dffb5daf" />
+
 ## PRAKTIKUM 3: VIEW LAYOUT & VIEW CELL
 ## Tujuan:
 
