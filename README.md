@@ -63,9 +63,11 @@ http://localhost:8080/page/tos
 ## Codelgniter
 <img width="736" height="297" alt="image" src="https://github.com/user-attachments/assets/8a832a83-c520-485f-a9d2-d046f42b5276" />
 
-## 
+## Halaman about
 <img width="379" height="222" alt="image" src="https://github.com/user-attachments/assets/9b37982a-d9be-49fa-80a2-0d1c7ba039dc" />
 
+## Halaman 
+<img width="381" height="250" alt="image" src="https://github.com/user-attachments/assets/3b50bae4-4214-4aa1-9ccc-38605212bb75" />
 
 
 
