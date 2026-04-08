@@ -235,7 +235,6 @@ public function render()
 
 ## Akses:
 # PRAKTIKUM 3 (Layout) - URL sama seperti Praktikum 2
-# PRAKTIKUM 2 (CRUD)
 http://localhost:8080/artikel
 http://localhost:8080/artikel/artikel-pertama
 http://localhost:8080/artikel/artikel-kedua
@@ -360,10 +359,12 @@ Praktikum 4 berhasil menambahkan sistem authentication/login untuk memproteksi h
 
 
 ## Author 
-
+```markdown
  **Nama**   :Cindy Revalina Simanullang|
  **NIM**    : 312410417 
  **Kelas**  : I.24.C.1 
  **Mata Kuliah** :Pemrograman Web 2 
+ ```
+
 
 
