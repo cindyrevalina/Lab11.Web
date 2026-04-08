@@ -32,6 +32,7 @@ Tampilan layout sederhana dengan CSS
 Belum ada CRUD, belum ada database
 
 ## Contoh code
+```markdown
 // Controller Page.php
 public function about() 
 { 
@@ -40,7 +41,7 @@ public function about()
         'content' => 'Ini adalah halaman about...' 
     ]); 
 }
-
+```
 ## Ciri khas Praktikum 1:
 
 ❌ Belum pakai database
@@ -132,6 +133,7 @@ Admin panel untuk kelola artikel
 Bisa tambah/edit/hapus artikel
 
 ## Contoh code
+```markdown
 // Controller Artikel.php
 public function add()
 {
@@ -142,7 +144,7 @@ public function add()
     ]);
     return redirect('admin/artikel');
 }
-
+```
 
 ## Ciri khas Praktikum 2:
 
@@ -210,7 +212,7 @@ Sidebar berisi artikel terbaru (dinamis)
 Komponen reusable (View Cell)
 
 ## Contoh code:
-
+```markdown
 php
 // View Cell
 public function render()
@@ -219,7 +221,7 @@ public function render()
     $artikel = $model->orderBy('created_at', 'DESC')->limit(5)->findAll();
     return view('components/artikel_terkini', ['artikel' => $artikel]);
 }
-
+```
 
 ## Ciri khas Praktikum 3:
 
@@ -286,7 +288,7 @@ Halaman admin yang terlindungi (harus login dulu)
 Session management
 
 ## Contoh code:
-
+```markdown
 php
 // Auth Filter
 class Auth implements FilterInterface 
@@ -298,7 +300,7 @@ class Auth implements FilterInterface
         } 
     } 
 }
-
+```
 
 ## Ciri khas Praktikum 4:
 
